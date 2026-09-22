@@ -1,0 +1,39 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go module cache / vendor (keep go.sum, ignore local vendor)
+/vendor/
+
+# Build output
+/bin/
+/dist/
+/build/
+
+# Test artifacts
+coverage.out
+coverage.html
+*.coverprofile
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
