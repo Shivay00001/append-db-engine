@@ -1,5 +1,7 @@
 # Append-Only Database Engine
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A minimal, production-grade embedded append-only database engine written in Go with MVCC (Multi-Version Concurrency Control), Write-Ahead Logging (WAL), and snapshot isolation.
 
 ## Features
